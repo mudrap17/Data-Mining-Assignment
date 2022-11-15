@@ -1,6 +1,8 @@
 # Data-Mining-Assignments
 
-# Assignment 1:
+# Assignment 1(CNN classifier)
+
+Dataset:https://www.kaggle.com/datasets/maricinnamon/caltech101-airplanes-motorbikes-schooners 	
 References:
     https://debuggercafe.com/getting-95-accuracy-on-the-caltech101-dataset-using-deep-learning/ // tutorial followed
         https://github.com/vatsalsaglani/ApparelClassifier/blob/master/train.py // model framing
@@ -11,7 +13,8 @@ My contribution:
 I tried to create a model architecture from strach and achieved a training accuracy of 95%.
 
 
-# Assignment 2:
+# Assignment 2(NBC Classifier)
+Dataset:https://www.kaggle.com/datasets/gaveshjain/ford-sentence-classifiaction-dataset
  References:
    https://www.analyticsvidhya.com/blog/2022/03/building-naive-bayes-classifier-from-scratch-to-perform-sentiment-analysis/ // fit and predict function
    
