@@ -11,7 +11,7 @@ My contribution:
 I tried to create a model architecture from strach and achieved a training accuracy of 95%.
 
 
-# Assignement 2:
+# Assignment 2:
  References:
    https://www.analyticsvidhya.com/blog/2022/03/building-naive-bayes-classifier-from-scratch-to-perform-sentiment-analysis/ // fit and predict function
    
