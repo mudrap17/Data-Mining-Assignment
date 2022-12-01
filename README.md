@@ -30,6 +30,6 @@ Dataset:https://www.kaggle.com/datasets/gaveshjain/ford-sentence-classifiaction-
 Dataset:https://www.kaggle.com/datasets/jarvisgroot/brain-tumor-classification-mri-images
 
 Steps to be followed:
-1.Open Google colab.
-2.Upload the dataset to your google drive
-3.Just run the file from the beginning after changing to the folder the one that contains the dataset using ls command
+ 1.Open Google colab.
+ 2.Upload the dataset to your google drive
+ 3.Just run the file from the beginning after changing to the folder to the one that contains the dataset using ls command
